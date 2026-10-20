@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MasterPandaa/MasterPandaa/main/assets/banners/Tokprice-Predictor.svg" alt="Tokprice Predictor Banner" width="100%">
+  <img src="assets/banner.svg" alt="Tokprice Predictor Banner" width="100%">
 </p>
 
 <p align="center">
